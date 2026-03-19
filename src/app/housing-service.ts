@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import {HousingLocationInfo} from '../housinglocationinfo';
+import {HousingLocationInfo} from './housinglocationinfo';
 
 
 @Injectable({
